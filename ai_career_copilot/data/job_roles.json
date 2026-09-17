@@ -1,0 +1,99 @@
+{
+  "Software Engineer": {
+    "description": "Designs, builds and maintains software systems.",
+    "required_skills": ["Python", "Git", "OOP", "Data Structures", "Algorithms", "SQL", "REST APIs", "Testing"],
+    "recommended_experience_years": 2,
+    "learning_areas": [
+      "Complete a Python OOP course",
+      "Practice LeetCode data structures",
+      "Build a REST API project",
+      "Learn Git branching and pull requests"
+    ]
+  },
+  "Data Scientist": {
+    "description": "Extracts insights from data using statistical analysis and machine learning techniques.",
+    "required_skills": ["Python", "Statistics", "Machine Learning", "Pandas", "NumPy", "SQL", "Data Visualization", "Jupyter Notebooks"],
+    "recommended_experience_years": 2,
+    "learning_areas": [
+      "Complete a statistics and probability course",
+      "Build end-to-end ML projects with scikit-learn",
+      "Practice exploratory data analysis on Kaggle datasets",
+      "Learn data storytelling with Matplotlib and Seaborn",
+      "Study feature engineering and model evaluation techniques"
+    ]
+  },
+  "Data Analyst": {
+    "description": "Interprets data sets to identify trends and communicate actionable business insights.",
+    "required_skills": ["SQL", "Excel", "Python", "Data Visualization", "Statistics", "Tableau", "Power BI", "Critical Thinking"],
+    "recommended_experience_years": 1,
+    "learning_areas": [
+      "Master SQL joins, window functions and aggregations",
+      "Learn Tableau or Power BI for dashboard creation",
+      "Practice data cleaning with Python and Pandas",
+      "Take a business analytics or statistics course",
+      "Build a portfolio of reports from public datasets"
+    ]
+  },
+  "Frontend Developer": {
+    "description": "Builds and maintains the visual and interactive components of web applications.",
+    "required_skills": ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Git", "Responsive Design", "REST APIs"],
+    "recommended_experience_years": 1,
+    "learning_areas": [
+      "Complete a modern JavaScript (ES6+) course",
+      "Build projects with React including hooks and state management",
+      "Learn CSS Flexbox, Grid and responsive design patterns",
+      "Practice consuming REST APIs from the frontend",
+      "Study web accessibility and performance optimisation"
+    ]
+  },
+  "Backend Developer": {
+    "description": "Designs and implements server-side logic, databases and APIs that power applications.",
+    "required_skills": ["Python", "SQL", "REST APIs", "Node.js", "Git", "Authentication", "Databases", "Docker"],
+    "recommended_experience_years": 2,
+    "learning_areas": [
+      "Build a production-ready REST API with FastAPI or Django REST Framework",
+      "Learn relational database design and query optimisation",
+      "Study authentication patterns such as JWT and OAuth2",
+      "Practice containerising applications with Docker",
+      "Learn basic CI/CD pipeline setup"
+    ]
+  },
+  "UX Designer": {
+    "description": "Researches user needs and designs intuitive, accessible digital experiences.",
+    "required_skills": ["Figma", "User Research", "Wireframing", "Prototyping", "Usability Testing", "Information Architecture", "Design Systems"],
+    "recommended_experience_years": 1,
+    "learning_areas": [
+      "Complete a UX design fundamentals course such as Google UX Design Certificate",
+      "Build a case-study portfolio with Figma prototypes",
+      "Learn how to conduct usability tests and document findings",
+      "Study WCAG accessibility guidelines",
+      "Practice designing and iterating based on user feedback"
+    ]
+  },
+  "DevOps Engineer": {
+    "description": "Automates infrastructure, deployments and monitoring to enable reliable and fast software delivery.",
+    "required_skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "Git", "Terraform", "Cloud Platforms", "Bash Scripting", "Monitoring"],
+    "recommended_experience_years": 3,
+    "learning_areas": [
+      "Learn Docker and Kubernetes for container orchestration",
+      "Set up a CI/CD pipeline with GitHub Actions or Jenkins",
+      "Study Infrastructure as Code with Terraform",
+      "Practice cloud deployments on AWS, GCP or Azure",
+      "Learn observability tools such as Prometheus and Grafana",
+      "Explore site reliability engineering (SRE) principles"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "description": "Develops, deploys and maintains scalable machine learning models and pipelines in production.",
+    "required_skills": ["Python", "Machine Learning", "Deep Learning", "PyTorch", "scikit-learn", "SQL", "Docker", "MLOps", "Feature Engineering"],
+    "recommended_experience_years": 3,
+    "learning_areas": [
+      "Build and deploy an end-to-end ML pipeline",
+      "Learn MLOps tools such as MLflow or Weights and Biases",
+      "Study deep learning with PyTorch or TensorFlow",
+      "Practice model optimisation, quantisation and serving",
+      "Learn containerisation and cloud deployment of ML models",
+      "Explore A/B testing and model monitoring in production"
+    ]
+  }
+}
